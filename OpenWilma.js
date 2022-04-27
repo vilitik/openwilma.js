@@ -6,7 +6,7 @@ let request = null
 
 // -- Config --
 const config = {
-    supportedApiVersions: ["11"]
+    supportedApiVersions: ["17"]
 }
 // -- Memory --
 let memory = {
